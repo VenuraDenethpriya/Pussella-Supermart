@@ -21,9 +21,9 @@
       <div class="box">
          <h3>contact info</h3>
          <p> <i class="fas fa-phone"></i> +74 14 28 138 </p>
-         <p> <i class="fas fa-phone"></i> +25 25 52 565 </p>
+         <p> <i class="fas fa-phone"></i> +81 23 65 009 </p>
          <p> <i class="fas fa-envelope"></i> pussellastore@gmail.com </p>
-         <p> <i class="fas fa-map-marker-alt"></i> pitipana, colombo - 38135 </p>
+         <p> <i class="fas fa-map-marker-alt"></i> Kandy Road, Rikillagaskada </p>
       </div>
 
       <div class="box">
